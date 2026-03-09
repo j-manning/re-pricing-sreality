@@ -5,3 +5,6 @@ scrape_date,platform,market,currency,tier_name,fee_amount,fee_period,prop_value_
 2026-03-05,sreality,CZ,CZK,1–49 listings,15,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
 2026-03-05,sreality,CZ,CZK,50–999 listings,12,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
 2026-03-05,sreality,CZ,CZK,1000+ listings,9,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
+2026-03-09,sreality,CZ,CZK,1–49 listings,15,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
+2026-03-09,sreality,CZ,CZK,50–999 listings,12,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
+2026-03-09,sreality,CZ,CZK,1000+ listings,9,per_day,,,,CZK/day/listing excl. VAT (21%). Multiply ×30 for monthly equivalent. [UNVERIFIED — page structure changed]
